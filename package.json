@@ -12,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://github.com/samod667/photo-ninja",
+  "homepage": "https://samod667.github.io/photo-ninja/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
