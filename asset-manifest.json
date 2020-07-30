@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/samod667/photo-ninja/static/css/main.69b19522.chunk.css",
-    "main.js": "/samod667/photo-ninja/static/js/main.01f28c41.chunk.js",
-    "main.js.map": "/samod667/photo-ninja/static/js/main.01f28c41.chunk.js.map",
-    "runtime-main.js": "/samod667/photo-ninja/static/js/runtime-main.6a2d4b8f.js",
-    "runtime-main.js.map": "/samod667/photo-ninja/static/js/runtime-main.6a2d4b8f.js.map",
-    "static/js/2.6229bd1e.chunk.js": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js",
-    "static/js/2.6229bd1e.chunk.js.map": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js.map",
-    "index.html": "/samod667/photo-ninja/index.html",
-    "precache-manifest.67a19e119cd916ecfa7ac30e83f83062.js": "/samod667/photo-ninja/precache-manifest.67a19e119cd916ecfa7ac30e83f83062.js",
-    "service-worker.js": "/samod667/photo-ninja/service-worker.js",
-    "static/css/main.69b19522.chunk.css.map": "/samod667/photo-ninja/static/css/main.69b19522.chunk.css.map",
-    "static/js/2.6229bd1e.chunk.js.LICENSE.txt": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js.LICENSE.txt"
+    "main.css": "/photo-ninja/static/css/main.69b19522.chunk.css",
+    "main.js": "/photo-ninja/static/js/main.01f28c41.chunk.js",
+    "main.js.map": "/photo-ninja/static/js/main.01f28c41.chunk.js.map",
+    "runtime-main.js": "/photo-ninja/static/js/runtime-main.602e20eb.js",
+    "runtime-main.js.map": "/photo-ninja/static/js/runtime-main.602e20eb.js.map",
+    "static/js/2.0e56d703.chunk.js": "/photo-ninja/static/js/2.0e56d703.chunk.js",
+    "static/js/2.0e56d703.chunk.js.map": "/photo-ninja/static/js/2.0e56d703.chunk.js.map",
+    "index.html": "/photo-ninja/index.html",
+    "precache-manifest.cfd4f19563f96d484a6f3c917badd13b.js": "/photo-ninja/precache-manifest.cfd4f19563f96d484a6f3c917badd13b.js",
+    "service-worker.js": "/photo-ninja/service-worker.js",
+    "static/css/main.69b19522.chunk.css.map": "/photo-ninja/static/css/main.69b19522.chunk.css.map",
+    "static/js/2.0e56d703.chunk.js.LICENSE.txt": "/photo-ninja/static/js/2.0e56d703.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a2d4b8f.js",
-    "static/js/2.6229bd1e.chunk.js",
+    "static/js/runtime-main.602e20eb.js",
+    "static/js/2.0e56d703.chunk.js",
     "static/css/main.69b19522.chunk.css",
     "static/js/main.01f28c41.chunk.js"
   ]
