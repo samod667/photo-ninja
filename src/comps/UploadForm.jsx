@@ -23,7 +23,7 @@ function UploadForm() {
   return (
     <div>
       <form>
-        <label>
+        <label style={{ cursor: "pointer" }}>
           <input type="file" onChange={handleChange} />
           <span>+</span>
         </label>
