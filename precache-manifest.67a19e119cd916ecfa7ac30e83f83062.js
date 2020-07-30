@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81cbb2856a2930773a5c065c8bbfc713",
+    "revision": "59d9a037043b7e771215b348612c0b17",
     "url": "/samod667/photo-ninja/index.html"
   },
   {
-    "revision": "91c1ab9d0065ba2a8b56",
+    "revision": "7d42ec857ea6f055035c",
     "url": "/samod667/photo-ninja/static/css/main.69b19522.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91c1ab9d0065ba2a8b56",
-    "url": "/samod667/photo-ninja/static/js/main.d8114f08.chunk.js"
+    "revision": "7d42ec857ea6f055035c",
+    "url": "/samod667/photo-ninja/static/js/main.01f28c41.chunk.js"
   },
   {
     "revision": "6334a70af7f23d98df82",

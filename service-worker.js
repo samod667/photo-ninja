@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samod667/photo-ninja/precache-manifest.cc0e9eb3c3b33181b61c63f8474eadb9.js"
+  "/samod667/photo-ninja/precache-manifest.67a19e119cd916ecfa7ac30e83f83062.js"
 );
 
 self.addEventListener('message', (event) => {
