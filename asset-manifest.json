@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/samod667/photo-ninja/static/css/main.69b19522.chunk.css",
+    "main.js": "/samod667/photo-ninja/static/js/main.d8114f08.chunk.js",
+    "main.js.map": "/samod667/photo-ninja/static/js/main.d8114f08.chunk.js.map",
+    "runtime-main.js": "/samod667/photo-ninja/static/js/runtime-main.6a2d4b8f.js",
+    "runtime-main.js.map": "/samod667/photo-ninja/static/js/runtime-main.6a2d4b8f.js.map",
+    "static/js/2.6229bd1e.chunk.js": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js",
+    "static/js/2.6229bd1e.chunk.js.map": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js.map",
+    "index.html": "/samod667/photo-ninja/index.html",
+    "precache-manifest.cc0e9eb3c3b33181b61c63f8474eadb9.js": "/samod667/photo-ninja/precache-manifest.cc0e9eb3c3b33181b61c63f8474eadb9.js",
+    "service-worker.js": "/samod667/photo-ninja/service-worker.js",
+    "static/css/main.69b19522.chunk.css.map": "/samod667/photo-ninja/static/css/main.69b19522.chunk.css.map",
+    "static/js/2.6229bd1e.chunk.js.LICENSE.txt": "/samod667/photo-ninja/static/js/2.6229bd1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2d4b8f.js",
+    "static/js/2.6229bd1e.chunk.js",
+    "static/css/main.69b19522.chunk.css",
+    "static/js/main.d8114f08.chunk.js"
+  ]
+}
